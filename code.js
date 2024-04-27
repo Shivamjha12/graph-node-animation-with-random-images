@@ -305,7 +305,7 @@ var app;
                     "cx": node.posX,
                     "cy": node.posY,
                     "r": node.radius,
-                    "fill": "rgba(129,139,197," + node.opacity.toFixed(3) + ")",
+                    "fill": "rgba(25, 118, 210," + node.opacity.toFixed(3) + ")",
                 }));
                 
                 let imageElem = createSvgElem("image",
